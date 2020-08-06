@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+ .user-card {
+   margin: auto;
+   margin-top: 15vh;
+ }
+
+.card-gossip{
+  width: 50%;
+  margin: auto;
+  margin-top: 30vh;
+}
+
+.create-potin {
+  margin: auto;
+  margin-top: 20vh;
+  width: 50%;
+  text-align: center;
+}

@@ -1,2 +1,0 @@
-class PrivatMessage < ApplicationRecord
-end
